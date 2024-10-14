@@ -1,6 +1,6 @@
 # pinpoint-using-jdk17
 - JDK17을 이용한 Pinpoint APM (v3.0.x) 구축 내용입니다. [참고자료](https://coor.tistory.com/66)
-- Mac OS를 기준으로 작성되었습니다.
+- 사전설명 : 2024년 5월 30일에 출시된 v3.0.0 이전에는 JDK 8과 11에서만 지원이 되었기에 Docker 사용이 필수적이였음
 
 <br/>
 
